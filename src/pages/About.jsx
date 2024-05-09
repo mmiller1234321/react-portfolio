@@ -7,7 +7,7 @@ export default function AboutPage(){
                     <img src="/assets/profile-image.jpg" />
                 </div>
                 <div className="col-8">
-                    I am currently a student in a Northwestern University full stack web development boot camp. I was a high school math teacher for 21 years, and I am looking to bring my skills and experience into a developer role.  
+                    Thank you for visiting my site. I am currently in a full-stack web development bootcamp, and this portfolio shows off my new React skills. Please take a look around, and contact me if you have any questions.   
                 </div>
             </div>
         </div>

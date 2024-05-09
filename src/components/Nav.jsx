@@ -9,7 +9,7 @@ export default function Nav() {
             <div className="container-fluid">
                 <div className='d-flex flex-wrap align-content-stretch'>
                 <div className='p-2'>
-                <h1>Charlotte Stowe</h1>
+                <h1>Martin Miller</h1>
                 </div>
                 <div className='p-2'>
                 <Navbar

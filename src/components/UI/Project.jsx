@@ -1,7 +1,7 @@
 export default function Project(){
     const projects = [
-        {key: 'a', title: 'All Time Team (still under development, a game created outside ths scope of the bootcamp. ', image: '/assets/alltimeteam.png', github:'https://github.com/mmiller1234321/All-Time-Team', live: 'https://alltimeteam-205f3b996ac7.herokuapp.com/'},
-        {key: 'b', title: 'Threes (A bar dice game I created outside the scope of the bootcamp.', image:'/assets/threes.png', github:'https://github.com/mmiller1234321/Threes', live: 'https://threes-3.onrender.com/'},
+        {key: 'a', title: 'All Time Team (still under development). Are you a baseball fan, check this out! ', image: '/assets/alltimeteam.png', github:'https://github.com/mmiller1234321/All-Time-Team', live: 'https://alltimeteam-205f3b996ac7.herokuapp.com/'},
+        {key: 'b', title: 'Threes (an online version of a classic Wisconsin tavern game)', image:'/assets/threes.png', github:'https://github.com/mmiller1234321/Threes', live: 'https://threes-3.onrender.com/'},
         {key: 'c', title: 'Tech Blog', image: '/assets/tech-blog.png', github:'https://github.com/mmiller1234321/Tech-Blog'},
         {key: 'd', title: 'Weather Dashboard', image: '/assets/weatherdashboard.png', github:'https://github.com/mmiller1234321/Weather-Dashboard', live: 'https://mmiller1234321.github.io/Weather-Dashboard/'},
     ];
