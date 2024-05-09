@@ -8,6 +8,6 @@ Welcome to my React-Portfolio. This is hosted at the link below:
 
 
 
-Thank you for visiting?
+Thank you for visiting!
 
 
