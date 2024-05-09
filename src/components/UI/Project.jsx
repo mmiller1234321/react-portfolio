@@ -1,4 +1,4 @@
-export default function Project(){
+export default function Project() {
     const projects = [
         {key: 'a', title: 'All Time Team (still under development). Are you a baseball fan, check this out! ', image: '/assets/alltimeteam.png', github:'https://github.com/mmiller1234321/All-Time-Team', live: 'https://alltimeteam-205f3b996ac7.herokuapp.com/'},
         {key: 'b', title: 'Threes (an online version of a classic Wisconsin tavern game)', image:'/assets/threes.png', github:'https://github.com/mmiller1234321/Threes', live: 'https://threes-3.onrender.com/'},
@@ -23,7 +23,6 @@ export default function Project(){
                     </a>
                 </div>
             </div>
-            )
-        )
-    )
+        ))
+    );
 }
